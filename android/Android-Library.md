@@ -3,7 +3,8 @@
 
 - Realm
 - Firebase
-- Retrofit
+- Retrofit 
+  - ![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.squareup.retrofit2/retrofit/badge.svg)
 - RxJava
 - Dagger
 - Lombok
