@@ -75,3 +75,14 @@ $ heroku ps:scale web=1
 ```
 
 - 이제 Slack에서 bot에게 ping을 보내고 PONG을 받으면 성공
+
+## 중요한 값 숨기기
+- 위 config:add를 이용하여 API key나 Token값 등을 숨길 수 있다.
+```
+ $ heroku config:add HUBOT_URL=http://xxxxxxxxx.herokuapp.com
+```
+- 터미널에서 heroku에 값을 설정하고
+```js
+ process.env.HUBOT_URL
+```
+- coffeescript에서 변수를 불러와 사용한다.
