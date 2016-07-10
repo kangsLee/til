@@ -8,6 +8,7 @@ Today I Learned
 ##etc
 - [etc main](./etc)
 - [slack-hubot-heroku](./etc/slack-hubot-heroku.md)
+- [regexp](./etc/regexp.md)
 
 ##git
 - [git main](./git) 
