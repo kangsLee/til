@@ -2,8 +2,9 @@
 Today I Learned
 
 ##android
-- [Android-Library](./android/Android-Library.md) 
-- [gradle](./android/Android-Library.md)
+- [안드로이드 라이브러리 정리](./android/android-library.md) 
+- [gradle](./android/gradle.md)
+- [material-design](./android/material-design.md)
  
 ##etc
 - [etc main](./etc)
