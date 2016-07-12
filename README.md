@@ -10,6 +10,7 @@ Today I Learned
 - [etc main](./etc)
 - [slack-hubot-heroku](./etc/slack-hubot-heroku.md)
 - [regexp](./etc/regexp.md)
+- [Firebase](./etc/firebase.md)
 
 ##git
 - [git main](./git) 
