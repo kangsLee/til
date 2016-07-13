@@ -6,6 +6,7 @@ Today I Learned
 - [gradle](./android/gradle.md)
 - [material-design](./android/material-design.md)
 - [Firebase](./android/firebase.md)
+- [TroubleShooting](./android/trouble-shooting.md)
  
 ##etc
 - [etc main](./etc)
