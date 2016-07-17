@@ -1,38 +1,38 @@
 #Android Library
 사용해본 것 정리하는 공간
 
-- Realm - https://realm.io/kr/
+- **Realm - https://realm.io/kr/**
     - SQLite와 CoreData를 대체할 수 있는 크로스 플랫폼 '모바일' 데이터베이스
-- Firebase - http://firebase.google.com
+- **Firebase - http://firebase.google.com**
     - 실시간 데이터베이스, Auth, Hosting의 기능에서 최근 Analytics, TestLab, Messaging, Admob 등이 통합 된 환경으로 확장되었다 
-- Retrofit - http://square.github.io/retrofit/
+- **Retrofit - http://square.github.io/retrofit/**
     - Square사의 HttpClient 라이브러리
     - ![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.squareup.retrofit2/retrofit/badge.svg)
-- RxJava - http://reactivex.io/ & https://github.com/ReactiveX/RxJava
+- **RxJava - http://reactivex.io/ & https://github.com/ReactiveX/RxJava**
     - ReactiveX를 Java에서 사용하도록 해주는 라이브러리
     - Observer Pattern, Iterator Pattern, and functional programming에 대한 이해 필요
-- Dagger2 - http://google.github.io/dagger/
+- **Dagger2 - http://google.github.io/dagger/**
     - 의존성 주입 프레임워크
     - Dagger1
         - http://square.github.io/dagger/
-- Lombok - https://projectlombok.org/
+- **Lombok - https://projectlombok.org/**
     - Annotation으로 Getter, Setter, Constructor, HashCode... 등 보일러플레이트를 졸여준다.
-- Picasso - http://square.github.io/picasso/
+- **Picasso - http://square.github.io/picasso/**
     - Square사의 이미 다운로딩, 캐싱 라이브러리
-- Glide - https://github.com/bumptech/glide
+- **Glide - https://github.com/bumptech/glide**
     - Picasso와 거의 동일한 라이브러리, 서로 장단점이 있음. 
-- Fresco - http://fresco.recrack.com/
+- **Fresco - http://fresco.recrack.com/**
     - Facebook이 만든 안드로이드 이미지 라이브러리
-- Butterknife - http://jakewharton.github.io/butterknife/
+- **Butterknife - http://jakewharton.github.io/butterknife/**
     - JakeWharton이 만든 Annotation 기반 View Injection 라이브러리 
-- otto - http://square.github.io/otto/
+- **otto - http://square.github.io/otto/**
     - Square사의 EventBus 라이브러리
     - 특정 이벤트를 생성하고 구독하여 복잡한 코드를 분리할 수 있다.
     - geenrobot사의 EventBus
         - https://github.com/greenrobot/EventBus
-- Jackson - http://wiki.fasterxml.com/JacksonHome
+- **Jackson - http://wiki.fasterxml.com/JacksonHome**
     - Json 생성, 데이터 바인딩 라이브러리 (Json 외 타입도 가능)
-- gson - https://github.com/google/gson
+- **Gson - https://github.com/google/gson**
     - Jackson과 유사한 Google에서 만든 Json 라이브러리
-- stetho - http://facebook.github.io/stetho/
+- **Stetho - http://facebook.github.io/stetho/**
     -  Faecbook이 만든 안드로이드 디버깅 플랫폼으로 크롬에서 어플리케이션 인스펙터를 할 수 있다.
