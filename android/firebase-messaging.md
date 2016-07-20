@@ -1,7 +1,4 @@
-#Firebase
-- Firebase 정리
-
-## Firebase Messaging
+# Firebase Messaging
 
 ### Gradle Setting
 ```gradle
