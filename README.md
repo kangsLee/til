@@ -10,6 +10,7 @@ Today I Learned
 - [TroubleShooting](./android/trouble-shooting.md)
 - [코틀린으로 간단하게 슬랙훅을 날려보는 예제](./android/kotlin-slackhook-example.md)
 - [잭컴파일러에서 Retrolambda로..](./android/change-jacknjill-to-retrolambda.md)
+- [페이스북 공유하기](./android/share.md)
  
 ##etc
 - [etc main](./etc)
