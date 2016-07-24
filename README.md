@@ -20,3 +20,4 @@ Today I Learned
 
 ##git
 - [git main](./git) 
+- [내 커밋에 서명하여 Github에 Verified 마크를 달아보자](./git/generating-a-gpg-key.md) 
