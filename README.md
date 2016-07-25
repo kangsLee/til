@@ -7,6 +7,7 @@ Today I Learned
 - [material-design](./android/material-design.md)
 - [FirebaseMessaging](./android/firebase-messaging.md)
 - [FirebaseRemoteConfig](./android/firebase-remote-config.md)
+- [FirebaseDynamicLink](./android/firebase-dynamic-link.md)
 - [TroubleShooting](./android/trouble-shooting.md)
 - [코틀린으로 간단하게 슬랙훅을 날려보는 예제](./android/kotlin-slackhook-example.md)
 - [잭컴파일러에서 Retrolambda 로..](./android/change-jacknjill-to-retrolambda.md)
