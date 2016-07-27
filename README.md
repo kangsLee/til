@@ -14,6 +14,7 @@ Today I Learned
 - [페이스북 공유하기](./android/share.md)
 - [멀티덱스로부터 벗어나자, Method count 확인하는 법](./android/dexcount.md)
 - [크래시 리포트 도구들](./android/crash-reports.md)
+- [ADB Idea](./android/adb-idea.md)
  
 ##etc
 - [etc main](./etc)
