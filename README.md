@@ -20,6 +20,7 @@ Today I Learned
 - [etc main](./etc)
 - [slack-hubot-heroku](./etc/slack-hubot-heroku.md)
 - [regexp](./etc/regexp.md)
+- [코틀린에서 제네릭 + Gson을 리스트로 변환하기](./etc/generic-n-gson-to-list.md)
 
 ##git
 - [git main](./git) 
