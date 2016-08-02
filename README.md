@@ -15,6 +15,7 @@ Today I Learned
 - [멀티덱스로부터 벗어나자, Method count 확인하는 법](./android/dexcount.md)
 - [크래시 리포트 도구들](./android/crash-reports.md)
 - [ADB Idea](./android/adb-idea.md)
+- [XML 속성 정리](./android/xml-attribute)
  
 ##etc
 - [etc main](./etc)
