@@ -22,7 +22,8 @@ Today I Learned
 - [slack-hubot-heroku](./etc/slack-hubot-heroku.md)
 - [regexp](./etc/regexp.md)
 - [코틀린에서 제네릭 + Gson을 리스트로 변환하기](./etc/generic-n-gson-to-list.md)
+- [코틀린 표준 라이브러리 정리](./etc/kotlin-stdlib.md)
 
 ##git
-- [git main](./git) 
+- [git main](./git) ff
 - [내 커밋에 서명하여 Github에 Verified 마크를 달아보자](./git/generating-a-gpg-key.md) 
