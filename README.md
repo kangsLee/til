@@ -23,6 +23,7 @@ Today I Learned
 - [regexp](./etc/regexp.md)
 - [코틀린에서 제네릭 + Gson을 리스트로 변환하기](./etc/generic-n-gson-to-list.md)
 - [코틀린 표준 라이브러리 정리](./etc/kotlin-stdlib.md)
+- [코틀린에서 함수를 확장하여 써보기](./etc/kotlin-extensions.md)
 
 ##git
 - [git main](./git) ff
