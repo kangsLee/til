@@ -16,6 +16,7 @@ Today I Learned
 - [크래시 리포트 도구들](./android/crash-reports.md)
 - [ADB Idea](./android/adb-idea.md)
 - [XML 속성 정리](./android/xml-attribute)
+- [피카소 Fit()을 사용하여 메모리를 절약하자](./android/picasso-fit.md)
  
 ##etc
 - [etc main](./etc)
