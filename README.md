@@ -27,6 +27,7 @@ Today I Learned
 - [코틀린에서 제네릭 + Gson을 리스트로 변환하기](./kotlin/generic-n-gson-to-list.md)
 - [코틀린 표준 라이브러리 정리](./kotlin/kotlin-stdlib.md)
 - [코틀린에서 함수를 확장하여 써보기](./kotlin/kotlin-extensions.md)
+- [코틀린 대거 오류 삽질](./kotlin/kotlin-dagger-kapt-issue.md)
  
 ## etc
 
