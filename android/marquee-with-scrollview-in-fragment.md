@@ -26,11 +26,11 @@ ViewPager
 > 마퀴를 사용 하기 위해 기본 xml을 설정
 
 ## 문제
-1. ViewPager 내 마퀴가 작동하지 않음
-- ViewPager가 생성 될 때 View가 완전히 구성되지 않은 상태에서 포커스를 설정함
-- subscribe를 이용하여 view가 완전히 구성되고 나서 textview에 focus를 설정해줌.
-- view.postDelayed로 설정해도 된다.
+1. `ViewPager` 내 마퀴가 작동하지 않음
+ - `ViewPager`가 생성 될 때 View가 완전히 구성되지 않은 상태에서 포커스를 설정함
+ - `subscribe`를 이용하여 view가 완전히 구성되고 나서 `TextView`에 `focus`를 설정해줌.
+ - `view.postDelayed`로 설정해도 된다.
 
-2. ViewPager가 전환 되면서 스크롤이 상단으로 이동 됨
-- 마퀴를 사용하기 위해 focus를 주었기 때문에 발생함
-- NestedScrollView 또는 ScrollView를 상속받아 `onRequestFocusInDescendants`를 override 하여 return값을 `true`로 반환시켜준다.
+2. `ViewPager`가 전환 되면서 스크롤이 상단으로 이동 됨
+ - 마퀴를 사용하기 위해 `focus`를 주었기 때문에 발생함
+ - `NestedScrollView` 또는 `ScrollView`를 상속받아 `onRequestFocusInDescendants`를 `override` 하여 `return`값을 `true`로 반환시켜준다.
