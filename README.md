@@ -15,6 +15,7 @@ Today I Learned
 - [XML 속성 정리](./android/xml-attribute)
 - [피카소 Fit()을 사용하여 메모리를 절약하자](./android/picasso-fit.md)
 - [마퀴 속성을 사용하며 생긴 이슈 정리](./android/marquee-with-scrollview-in-fragment.md)
+- [크롬 커스텀 탭으로 더 빠르게 웹을 보여주기](./android/chrome-custom-tab.md)
 
 ## firebase
 
