@@ -1,6 +1,9 @@
 # til
 Today I Learned
 
+## angularJS
+- [앵귤러2 서버사이드 렌더링](./angularJS/ng2-serverside-rendering.md) 
+
 ## android
 
 - [안드로이드 라이브러리 정리](./android/Android-Library.md) 
