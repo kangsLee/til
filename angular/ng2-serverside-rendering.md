@@ -1,4 +1,4 @@
-# Angular2 ServerSide Rendering
+# Angular ServerSide Rendering
 
 ###*이것만 있으면 해결!!!*
 - [Angular Universal](https://universal.angular.io/)

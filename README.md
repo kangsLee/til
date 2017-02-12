@@ -1,8 +1,9 @@
 # til
 Today I Learned
 
-## angularJS
-- [앵귤러2 서버사이드 렌더링](./angularJS/ng2-serverside-rendering.md) 
+## angular
+- [스타일 가이드 맞춤 코드 분석기](angular/ng2-codelyzer.md) 
+- [앵귤러 서버사이드 렌더링](angular/ng2-serverside-rendering.md) 
 
 ## android
 
